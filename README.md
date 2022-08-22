@@ -1,5 +1,5 @@
 # Hello there!!! It is really nice to see you!!!!! :sunglasses:
-- :wave: I'm Yuşa
+- :wave: I'm Yusa
 - :eyes: I'm interested in Web Development
 - :seedling: I've been learning HTML, CSS, Bootstrap, JavaScript, SQL,REACT
 - :speech_balloon: Ask me anything about Tech World.
@@ -17,4 +17,4 @@
    <a href="https://sass-lang.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="git" width="50"/>
   </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=AdamHopeful&theme=codeSTACKr&show_icons=true" >
+<img src="https://github-readme-stats.vercel.app/api?username=yusabolen&theme=codeSTACKr&show_icons=true" >
