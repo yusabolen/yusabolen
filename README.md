@@ -64,7 +64,7 @@
 
 <div align="center">
   <!-- <a href=""> -->
-  <img  src="https://github.com/yusabolen/snake/blob/main/snake.svg
+  <img  src="https://github.com/yusabolen/snake/blob/main/snake.svg"
        alt="snake" /></a>
 </div>
 
