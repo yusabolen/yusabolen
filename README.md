@@ -4,8 +4,6 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusabolen" alt="yusabolen" /></a> </p>
-
 - 📫 How to reach me **yusabugrabolen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,3 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusabolen&show_icons=true&locale=en" alt="yusabolen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusabolen&" alt="yusabolen" /></p>
+
